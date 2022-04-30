@@ -7,7 +7,7 @@ using UnityEditor;
 public class quitApplication : MonoBehaviour
 {
 
-    private const float TIME_LIMIT = 23F; //seconds
+    private const float TIME_LIMIT = 21F; //seconds
     // timer variable
     private float timer = 0F;
 

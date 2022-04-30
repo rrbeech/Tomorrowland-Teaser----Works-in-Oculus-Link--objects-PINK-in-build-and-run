@@ -12,7 +12,7 @@ public class SceneLoader : MonoBehaviour
 
     // time after this script initializes, in seconds,
     // that the scene transition will happen
-    private const float TIME_LIMIT = 56F; //seconds
+    private const float TIME_LIMIT = 52F; //seconds
 
     // timer variable
     private float timer = 0F;
